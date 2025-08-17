@@ -1,0 +1,6 @@
+{
+    "project_name": "FastAPI Project",
+    "project_slug": "fastapi_app",
+    "description": "A FastAPI boilerplate",
+    "author": "Oluyinka"
+}

@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*$py.class
+
+# Distribution / packaging
+.Python
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# FastAPI / Uvicorn
+*.log
+*.sqlite3
+*.db
+instance/
+*.pid
+
+# Jupyter / IPython
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pytest / Coverage
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+.pytest_cache/
+
+# MyPy / Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pydantic / FastAPI compiled models cache
+*.pydantic/
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.tar
+*.tmp
+
+# OS Specific
+.DS_Store
+Thumbs.db
